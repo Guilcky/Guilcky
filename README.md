@@ -38,14 +38,13 @@ Tenho interesse em tecnologia, desenvolvimento de software e análise de dados, 
 ## 📚 Atualmente estudando
 - Análise de Dados
 - Desenvolvimento Back-end
-- Boas práticas de desenvolvimento
 - Banco de Dados
-
 ---
 
 ## 📫 Contato
 📧 Email: guidiasdasilva14@gmail.com
-   ##
-   
+##
+
+
   <a href="https://www.linkedin.com/in/guilherme-dias-8a4a0923b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guidiasdasilva14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
