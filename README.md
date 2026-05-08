@@ -1,26 +1,50 @@
-## Olá! Prazer Me Chamo Guilherme Dias 
+# Guilherme Dias
 
-- 📚 Estudando Python
-- 💻 Estudante de Ciência da Computação
-- 💬 Contato: guidiasdasilva14@gmail.com
+## 👨‍💻 Sobre mim
+Prazer, me chamo Guilherme, estudante de Ciência da Computação.  
+Venho focando meus estudos na área de dados, buscando aprimorar constantemente minhas habilidades técnicas e profissionais.
 
+Possuo conhecimento em análise de dados utilizando Python, aplicando ferramentas e bibliotecas para apoio em tomadas de decisão e processamento de informações. Também desenvolvi aplicações Web e Back-end durante meus estudos e projetos.
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilcky&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+Tenho interesse em tecnologia, desenvolvimento de software e análise de dados, sempre buscando aprender novas ferramentas e evoluir na área.
 
-###
+---
 
-###
-###
+## 🚀 Tecnologias e Ferramentas
 
-  <div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo"  />
-  </div>
-  
+### 💻 Linguagens
+- Java
+- Python
+- JavaScript
+
+### 📊 Dados e Análise
+- NumPy
+- Pandas
+
+### 🌐 Desenvolvimento Web
+- HTML
+- CSS
+
+### 🗄️ Banco de Dados
+- MySQL
+- PostgreSQL
+
+### 🛠️ Ferramentas
+- Git
+- GitHub
+
+---
+
+## 📚 Atualmente estudando
+- Análise de Dados
+- Desenvolvimento Back-end
+- Boas práticas de desenvolvimento
+- Banco de Dados
+
+---
+
+## 📫 Contato
+📧 Email: guidiasdasilva14@gmail.com
    ##
    
   <a href="https://www.linkedin.com/in/guilherme-dias-8a4a0923b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
